@@ -1,0 +1,1 @@
+A comunidade [BSD](BSD.md) ==é considerada menos ativa do que a do Linux==. Alguns usuários do Reddit afirmam que a comunidade BSD é menos pretensiosa e que os conselhos dos usuários do BSD sobre se certas tarefas são melhor executadas no Windows ou Linux são geralmente imparciais.

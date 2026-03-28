@@ -1,4 +1,3 @@
-# Acessando Smartphone Android e manipulando arquivos com o Debian
 
 language: pt-BR
 

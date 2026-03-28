@@ -40,6 +40,8 @@ Então fiquei num ponto onde não entrávamos mais no grub e a placa mãe não r
 
 Para conseguir que a placa mãe recenhecesse o m.2 novamente, retirei o HD SATA do slot 2 e coloquei no slot 3. Por mais estranho que isso possa parecer, a placa mãe voltou a reconhecer o SSD m.2 e o grub voltou. Placa mãe da ASUS.
 
+*EDIT: Somente depois, pesquisando em fórum gringo, vi que a placa mãe ASUS que eu tinha tem um problema de hardware, que se está utilizando o slot 1 ou 2, com o HD SATA, ele deixa de funcionar o SSD M2. Problema da placa.*
+
 ![Estranhamente, ela não reconhece nenhum HD, porém ao lado direito ela (a placa mãe) lista corretamente.](./imgs/03.jpg)
 
 No grub agora, escolhi Debian e voltou para uma tela com um erro.

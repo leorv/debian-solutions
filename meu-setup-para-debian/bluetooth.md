@@ -1,0 +1,1 @@
+Meu bluetooth no Debian testing só funcionou quando instalei o pacote *libspa-0.2-bluetooth.*

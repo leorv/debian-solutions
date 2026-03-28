@@ -1,4 +1,4 @@
-O Filesystem Hierarchy Standard teve sua origem em 1996, com a [[comunidade BSD]] da universidade da Califórnia. Hoje é mantido pela Linux Foundation ([[LSB Workgroup]]).
+O Filesystem Hierarchy Standard teve sua origem em 1996, com a [Comunidade BSD](Comunidade%20BSD.md) da Universidade da Califórnia. Hoje é mantido pela Linux Foundation ([[LSB Workgroup]]).
 
 Um padrão de uniformização, para facilitar o uso. Adotado por todas as distribuições Linux.
 
